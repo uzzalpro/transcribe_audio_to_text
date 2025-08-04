@@ -1,0 +1,26 @@
+env/
+.venv/
+.venv
+.vscode/
+/venv-py311
+__pycache__
+__pycache__/*
+*/__pycache__/*
+app/static/screenshots/*
+*/screenshots/*
+*.jpg
+*.png
+*.pyc
+/venv
+
+
+venv_py311/*
+*/venv_py311/*
+.codegpt
+files/*
+
+# Ignore all .env files
+.env
+.env.*
+*.env
+
